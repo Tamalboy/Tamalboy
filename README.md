@@ -1,4 +1,4 @@
-# !Hola! Soy Rick 🦆
+# Hello there, soy Rick 🦆
 **`Data Analyst`**
 
 Considero que realizar las preguntas correctas es más valioso que dar respuestas. Siempre me ha fascinado solucionar problemas, pensar mil y un soluciones para responder esa pregunta que parece no tener respuesta; mientras más grande el reto, mejor. Me gusta que mis resultados finales sean de mi agrado, considero que si a mi me gusta algo, probablemente a los demás también. 
