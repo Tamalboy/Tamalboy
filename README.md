@@ -26,7 +26,7 @@ Adventure Days - The North Face: Durante mi tiempo en Email Marketing, implement
 </details>
 <details>
  <Summary><h3> ⏰ Cómo me veo en el futuro? </h3></Summary> 
- Busco convertirme en un analista de datos de cara al ecommerce ya que me gusta involucrarme con las diferentes cuentas así como con mi propia empresa. Me veo como alguién que puede usar distintas herramientas para realizar un análisis completo, así como una gran habilidad de storytelling para contar justamente eso, la historia de los datos.  
+ Busco convertirme en un analista de datos de cara al ecommerce ya que me gusta involucrarme con cliente así como con mi propia empresa. Me veo como alguién que pueda usar distintas herramientas para realizar un análisis completo. También me visualizo como un gran storyteller para contar justamente eso, la historia de los datos.  
 </details>
 
 
